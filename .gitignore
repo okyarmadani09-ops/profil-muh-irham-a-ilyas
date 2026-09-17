@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.exe
+*.msix
+*.zip
+*.docx
+*.csv
+*.jpg
+.venv/
+.streamlit/secrets.toml
